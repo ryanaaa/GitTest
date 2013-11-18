@@ -9,3 +9,5 @@ git status
 		就是更改了但没有add的
 	Changes to be committed:
 		就是add了但没有commit的
+	Your branch is ahead of 'origin/master' by 1 commit.
+		有一次commit还没有push
